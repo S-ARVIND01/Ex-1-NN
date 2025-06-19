@@ -1,6 +1,3 @@
-<H3>ARVIND S</H3>
-<H3>212222240012</H3>
-
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
